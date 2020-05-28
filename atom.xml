@@ -6,7 +6,7 @@
   <link href="/linkzz/atom.xml" rel="self"/>
   
   <link href="https://resticdog.github.io/linkzz/"/>
-  <updated>2020-05-28T14:21:17.785Z</updated>
+  <updated>2020-05-28T15:07:07.564Z</updated>
   <id>https://resticdog.github.io/linkzz/</id>
   
   <author>
@@ -17,11 +17,57 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://resticdog.github.io/linkzz/2020/05/28/hello-world/"/>
-    <id>https://resticdog.github.io/linkzz/2020/05/28/hello-world/</id>
-    <published>2020-05-28T14:21:17.785Z</published>
-    <updated>2020-05-28T14:21:17.785Z</updated>
+    <title>拯救你的idea,解决ubuntu下idea字体发虚</title>
+    <link href="https://resticdog.github.io/linkzz/2019/05/03/ubuntu-idea-font/"/>
+    <id>https://resticdog.github.io/linkzz/2019/05/03/ubuntu-idea-font/</id>
+    <published>2019-05-03T14:36:15.000Z</published>
+    <updated>2020-05-28T15:07:07.564Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;idea在ubuntu下的字体表现&quot;&gt;&lt;a href=&quot;#idea在ubuntu下的字体表现&quot; class=&quot;headerlink&quot; title=&quot;idea在ubuntu下的字体表现&quot;&gt;&lt;/a&gt;idea在ubuntu下的字体表现&lt;/h3&gt;&lt;p&gt;idea这么强大的ide相信大家都有目共睹，但是最近在ubuntu下安装idea之后却发现字体表现还不如windows，要知道windows的字体渲染可是不如linux的，在高分屏下window的字体会出现明显锯齿，而linux就很平滑，虽然这个和idea没关系，因为idea是用java开发的，字体渲染不是用的系统的字体渲染引擎。查阅资料也发现对于idea的字体渲染问题，intelliJ是有优化过的，然而我ubuntu下的idea看起来却是这样的：&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="linux" scheme="https://resticdog.github.io/linkzz/categories/linux/"/>
+    
+    
+      <category term="IDEA" scheme="https://resticdog.github.io/linkzz/tags/IDEA/"/>
+    
+      <category term="ubuntu" scheme="https://resticdog.github.io/linkzz/tags/ubuntu/"/>
+    
+      <category term="字体" scheme="https://resticdog.github.io/linkzz/tags/%E5%AD%97%E4%BD%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Hogan渲染html模板加载图片出错</title>
+    <link href="https://resticdog.github.io/linkzz/2019/01/08/hogan-render-img-err/"/>
+    <id>https://resticdog.github.io/linkzz/2019/01/08/hogan-render-img-err/</id>
+    <published>2019-01-08T10:22:04.000Z</published>
+    <updated>2020-05-28T15:07:07.564Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在从服务器加载数据并渲染商品列表的时候出现&lt;code&gt;Cannot find module &amp;quot;./&amp;quot;&lt;/code&gt;错误，查看返回的json字段信息如下:&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://resticdog.github.io/linkzz/categories/JavaScript/"/>
+    
+    
+      <category term="hogan" scheme="https://resticdog.github.io/linkzz/tags/hogan/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>取非符号的妙用</title>
+    <link href="https://resticdog.github.io/linkzz/2018/12/28/awesome-false/"/>
+    <id>https://resticdog.github.io/linkzz/2018/12/28/awesome-false/</id>
+    <published>2018-12-28T08:55:56.000Z</published>
+    <updated>2020-05-28T15:07:07.564Z</updated>
     
     <summary type="html">
     
@@ -29,13 +75,18 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;如下代码块：&lt;/p&gt;
+&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span
         
       
     
     </summary>
     
     
+      <category term="JavaScript" scheme="https://resticdog.github.io/linkzz/categories/JavaScript/"/>
+    
+    
+      <category term="小技巧" scheme="https://resticdog.github.io/linkzz/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
