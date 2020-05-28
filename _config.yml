@@ -102,6 +102,7 @@ theme_config:
     归档: /archives
     分类: /categories
     标签: /tags
+    关于我: /about
 
   # 站点次标题和打字动效
   # https://github.com/mattboldt/typed.js
