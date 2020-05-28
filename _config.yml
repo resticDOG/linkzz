@@ -118,8 +118,8 @@ theme_config:
     showCursor: true  # 是否显示光标
 
   # 网站图标和侧边栏logo
-  favicon: ./favicon.ico
-  logo: ./images/logo_size_invert.jpg
+  favicon: https://i.loli.net/2020/05/28/rliVB5dIWfSkTsE.jpg
+  logo: https://i.loli.net/2020/05/28/rliVB5dIWfSkTsE.jpg
 
   # 封面配置
   # enable-是否启用封面；path-封面背景图；logo-封面logo
