@@ -3,7 +3,7 @@ title: About Me
 date: 2020-05-28 23:30:10
 ---
 
-> 走过化工厂, 送过快递, 现在, 只是个大龄coder
+> 走过化工厂, 送过快递, 现在, 只是个coder
 
 - 🐵 张振华
 - 📧 linkzz@qq.com
