@@ -6,7 +6,7 @@
   <link href="/linkzz/atom.xml" rel="self"/>
   
   <link href="https://resticdog.github.io/linkzz/"/>
-  <updated>2020-05-29T02:29:14.713Z</updated>
+  <updated>2020-06-03T06:32:02.408Z</updated>
   <id>https://resticdog.github.io/linkzz/</id>
   
   <author>
@@ -17,18 +17,17 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>记一次被面试官虐的经历</title>
+    <title>Spring事务的隔离级别和传播行为以及常见的事务注解失效的原因</title>
     <link href="https://resticdog.github.io/linkzz/2020/05/28/interview-20200528/"/>
     <id>https://resticdog.github.io/linkzz/2020/05/28/interview-20200528/</id>
     <published>2020-05-28T16:21:52.000Z</published>
-    <updated>2020-05-29T02:29:14.713Z</updated>
+    <updated>2020-06-03T06:32:02.408Z</updated>
     
     <summary type="html">
     
       &lt;blockquote&gt;
-&lt;p&gt;大概还是我太菜了, 今天接到一个电话面试, 面试官随意问了一些很基本的Java面试题. 然鹅, 准备不充分的我被面试官一阵夺命追问, 败下阵来, 在此记录以下这些问题的答案,希望早日将这些知识融会贯通…&lt;/p&gt;
+&lt;p&gt;在日常开发中事务的重要性不言而喻,而Spring作为日常使用的最多的Java框架对事务的处理有一套自己的准则,现在我们就来看以下Spring中事务的隔离级别和传播行为.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&quot;Spring的事务隔离级别和传播行为&quot;&gt;&lt;a href=&quot;#Spring的事务隔离级别和传播行为&quot; class=&quot;headerlink&quot; title=&quot;Spring的事务隔离级别和传播行为&quot;&gt;&lt;/a&gt;Spring的事务隔离级别和传播行为&lt;/h2&gt;&lt;p&gt;这个问题也是Java面试中的常问题目了,奈何我太菜,平时就一个注解解决问题的我就支支吾吾说出一两.&lt;/p&gt;
     
     </summary>
     
@@ -42,6 +41,8 @@
     
       <category term="Spring" scheme="https://resticdog.github.io/linkzz/tags/Spring/"/>
     
+      <category term="事务" scheme="https://resticdog.github.io/linkzz/tags/%E4%BA%8B%E5%8A%A1/"/>
+    
   </entry>
   
   <entry>
@@ -49,7 +50,7 @@
     <link href="https://resticdog.github.io/linkzz/2019/05/03/ubuntu-idea-font/"/>
     <id>https://resticdog.github.io/linkzz/2019/05/03/ubuntu-idea-font/</id>
     <published>2019-05-03T14:36:15.000Z</published>
-    <updated>2020-05-29T02:29:14.713Z</updated>
+    <updated>2020-06-03T06:32:02.408Z</updated>
     
     <summary type="html">
     
@@ -74,7 +75,7 @@
     <link href="https://resticdog.github.io/linkzz/2019/01/08/hogan-render-img-err/"/>
     <id>https://resticdog.github.io/linkzz/2019/01/08/hogan-render-img-err/</id>
     <published>2019-01-08T10:22:04.000Z</published>
-    <updated>2020-05-29T02:29:14.713Z</updated>
+    <updated>2020-06-03T06:32:02.408Z</updated>
     
     <summary type="html">
     
@@ -95,7 +96,7 @@
     <link href="https://resticdog.github.io/linkzz/2018/12/28/awesome-false/"/>
     <id>https://resticdog.github.io/linkzz/2018/12/28/awesome-false/</id>
     <published>2018-12-28T08:55:56.000Z</published>
-    <updated>2020-05-29T02:29:14.713Z</updated>
+    <updated>2020-06-03T06:32:02.408Z</updated>
     
     <summary type="html">
     
